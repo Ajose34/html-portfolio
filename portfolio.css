@@ -201,6 +201,9 @@ dot{
   transition: all 0.3s ease-in-out;
   border-radius: 5px;
 }
+.pic-one{
+  width: 70%;
+}
 .card-two{
   background-color: #2d2d2d;
 }
